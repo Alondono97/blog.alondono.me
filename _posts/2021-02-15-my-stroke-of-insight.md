@@ -2,7 +2,7 @@
 layout: post
 title: "Take Aways from My Stroke of Insight"
 author: Alejandro Londono
-date: 2021-02-14 23:30:00 +0000
+date: 2021-02-15 10:30:00 +0000
 categories: reading
 ---
 ## Take Aways and Reflections From My Stroke of Insight by Dr. Jill Bolte Taylor, Ph. D.
