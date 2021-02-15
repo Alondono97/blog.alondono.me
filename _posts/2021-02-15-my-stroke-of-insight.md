@@ -25,7 +25,7 @@ In these chapters Dr. Taylor explains how the majority of strokes occur due to b
 
 > As information processing machines, our ability to process data about the external world begins at the level of sensory perception. pg. 18
 
-My computer science education lacked coverage of Biology. This is expected as the overlap between these two fields is one that must be actively sought out. I have however, ventured into the subject, on occasion, in my extra-curricular reading. Granted, I’ve only read something like two other bio-centric books in the last 3 or so years, but between those and this one, I find myself intrigued by how often /computational/ style language shows up in biological writing. For example, when these texts focus on the subject of genetics, words such as /code/, /encoding/, /program/ appear liberally. Similarly, when Dr. Taylor writes about the brain, she infuses the words /machines/, /data/, /code/, /pixels/ throughout her descriptions of its operations and information processing. Examples of this can be seen in this section’s opening quote as well as the following:
+My computer science education lacked coverage of Biology. This is expected as the overlap between these two fields is one that must be actively sought out. I have however, ventured into the subject, on occasion, in my extra-curricular reading. Granted, I’ve only read something like two other bio-centric books in the last 3 or so years, but between those and this one, I find myself intrigued by how often *computational* style language shows up in biological writing. For example, when these texts focus on the subject of genetics, words such as *code*, *encoding*, *program* appear liberally. Similarly, when Dr. Taylor writes about the brain, she infuses the words *machines*, *data*, *code*, *pixels* throughout her descriptions of its operations and information processing. Examples of this can be seen in this section’s opening quote as well as the following:
 
 > Our visual field … is divided into billions of tiny spots or pixels.
 > …this information is eventually coded as different colors by the visual cortex in the occipital region of our brain. pg. 19
@@ -61,11 +61,11 @@ This resonates with the way Dr. Taylor described her ability to become abstractl
 
 > I learned that I had the power to choose whether to hook into a feeling and prolong its presence in my body, or just let it quickly flow right out of me. Pg. 126 
 
-Dr. Taylor uses her experience to encourage the reader to engage with the present more often and be more introspective towards the state of their mind and body. The philosophy and behaviors that Dr. Taylor advocates for are not necessarily /identical/ to those encouraged by mindfulness proponents, but they are in many ways similar and seek to produce the same results. 
+Dr. Taylor uses her experience to encourage the reader to engage with the present more often and be more introspective towards the state of their mind and body. The philosophy and behaviors that Dr. Taylor advocates for are not necessarily *identical* to those encouraged by mindfulness proponents, but they are in many ways similar and seek to produce the same results. 
 
 I am by no means a highly experienced practitioner of mindfulness, but I have, at times, engaged in periods of consistent daily meditation that produced a heightened sense of awareness over the thoughts and emotions that arose in my mind and body. Anecdotally, I can concur that this awareness gave rise to a nuanced understanding of choice over how to react to those feelings, and at times even allowed for the embracing or releasing of them at will. Remnants of this awareness have continued existing in my conscious psyche, but not as vividly without extended periods of consistent meditation practice. 
 
-More comparisons between mindfulness teachings and Dr. Taylor’s insights continue throughout the book. A common description of meditation involves imagining your thoughts as clouds floating in the wind. As they come into your mind, you /acknowledge/ their presence, but you do not hold on to them, you simply let them drift away with the breeze. Similarly, Dr. Taylor states:
+More comparisons between mindfulness teachings and Dr. Taylor’s insights continue throughout the book. A common description of meditation involves imagining your thoughts as clouds floating in the wind. As they come into your mind, you *acknowledge* their presence, but you do not hold on to them, you simply let them drift away with the breeze. Similarly, Dr. Taylor states:
 
 > Become aware of your extraneous thoughts, thank them for their service, and ask them to be silent for a little while. Pg. 170
 
@@ -94,4 +94,4 @@ I don’t know exactly what I hope to achieve with this or any future blog posts
 
 With regards to My Stroke of Insight, it is not a terribly long read (roughly 196 pages), and if you feel compelled to read it after having read this post, I hope you find that there is even more value to be extracted from its pages than just what I have detailed here. Dr. Taylor’s resilience, determination, and success in recovering from her stroke after having lost the majority of her faculties inspired me to be a happier, more appreciative person, and hopefully it can do so for you as well. 
 
-*Thanks* to Ryan Wells, Hannah Gooden, and Ross Hardin for reading drafts of this.
+**Thanks** to Ryan Wells, Hannah Gooden, and Ross Hardin for reading drafts of this.
