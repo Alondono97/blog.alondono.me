@@ -93,3 +93,5 @@ These key insights from Dr. Taylor’s experience resonate throughout the book, 
 I don’t know exactly what I hope to achieve with this or any future blog posts. The format is not exactly conventional. It feels very much like it exists in an in-between-state, not quite an essay, but also rather long when compared to traditional blog posts. Something of an organized post-stream of consciousness. Anyhow, it is of value to me to organize my post-reading thoughts in this way, and I hope that as a reader you may derive some value from it too. 
 
 With regards to My Stroke of Insight, it is not a terribly long read (roughly 196 pages), and if you feel compelled to read it after having read this post, I hope you find that there is even more value to be extracted from its pages than just what I have detailed here. Dr. Taylor’s resilience, determination, and success in recovering from her stroke after having lost the majority of her faculties inspired me to be a happier, more appreciative person, and hopefully it can do so for you as well. 
+
+*Thanks* to Ryan Wells, Hannah Gooden, and Ross Hardin for reading drafts of this.
