@@ -34,7 +34,7 @@ This type of language makes sense to use as this is both literally and analogous
 
 But to me this also brings to mind questions of how and why computation embeds itself so deeply in the natural world. Recursion, a tool computer scientists are deeply acquainted with, appears again in genetic replication as well as more macroscopically in fractal formations like vegetation and coastlines. 
 
-Is the idea of computation a human creation? Or is it , in fact, an emergent property of nature? Similar questions arise in physics and quantum computing. In [Quantum computing for the very curious](https://quantum.country/qcvc), Michael Nielsen, expanding on David Deutsch’s original pondering over the physical nature of computation, states:
+Is the idea of computation a human creation? Or is it, in fact, an emergent property of nature? Similar questions arise in physics and quantum computing. In [Quantum computing for the very curious](https://quantum.country/qcvc), Michael Nielsen, expanding on David Deutsch’s original pondering over the physical nature of computation, states:
 
 > … computers aren’t just human inventions. They are a fundamental feature of the universe, the answer to a simple and profound question about how the universe works. 
 
