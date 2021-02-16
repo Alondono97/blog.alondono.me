@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Take Aways from My Stroke of Insight"
+title: "Take Aways from 'My Stroke of Insight'"
 author: Alejandro Londono
 date: 2021-02-15 10:30:00 +0000
 categories: reading
 ---
-## Take Aways and Reflections From My Stroke of Insight by Dr. Jill Bolte Taylor, Ph. D.
+## Take Aways and Reflections From 'My Stroke of Insight' by Dr. Jill Bolte Taylor, Ph. D.
 
-This year I tasked myself with the New Year’s Resolution of [reading one book a week](http://reading.alondono.me). Throughout the year I plan on making intermittent blog posts exploring my take aways from some of the books that make a strong impression on me. The week of January 31, 2021 I read My Stroke of Insight by [Dr. Jill Bolte Taylor](http://drjilltaylor.com/), Ph. D, a Harvard trained neuroscientist. This book details Dr. Taylor’s observations regarding her stroke experience and the recovery that followed. She briefly touches on topics of neuroscience followed by deeper insights into her gained understanding of stroke recovery, overall well being, and happiness. 
+This year I tasked myself with the New Year’s Resolution of [reading one book a week](http://reading.alondono.me). Throughout the year I plan on making intermittent blog posts exploring my take aways from some of the books that make a strong impression on me. The week of January 31, 2021 I read 'My Stroke of Insight' by [Dr. Jill Bolte Taylor](http://drjilltaylor.com/), Ph. D, a Harvard trained neuroscientist. This book details Dr. Taylor’s observations regarding her stroke experience and the recovery that followed. She briefly touches on topics of neuroscience followed by deeper insights into her gained understanding of stroke recovery, overall well being, and happiness. 
 
 I have always had an underlying interest and curiosity for neuroscience. In college I began a neuroscience minor before deciding neuro fit my interests better as a side hobby and switching to math. However, this curiosity never disappeared, and it drew me to the unique perspective offered by Dr. Taylor’s neuroscientific recounting of her stroke. After finishing this book, I can not recommend it enough as an avenue for self reflection, gratitude, and inspiration. Here I outline some of my key take aways.
 
@@ -25,7 +25,7 @@ In these chapters Dr. Taylor explains how the majority of strokes occur due to b
 
 > As information processing machines, our ability to process data about the external world begins at the level of sensory perception. pg. 18
 
-My computer science education lacked coverage of Biology. This is expected as the overlap between these two fields is one that must be actively sought out. I have however, ventured into the subject, on occasion, in my extra-curricular reading. Granted, I’ve only read something like two other bio-centric books in the last 3 or so years, but between those and this one, I find myself intrigued by how often *computational* style language shows up in biological writing. For example, when these texts focus on the subject of genetics, words such as *code*, *encoding*, *program* appear liberally. Similarly, when Dr. Taylor writes about the brain, she infuses the words *machines*, *data*, *code*, *pixels* throughout her descriptions of its operations and information processing. Examples of this can be seen in this section’s opening quote as well as the following:
+My computer science education lacked coverage of Biology. This is expected as the overlap between these two fields is one that must be actively sought out. I have however, ventured into the subject, on occasion, in my extra-curricular reading. I’ve read two other bio-centric books<sup>1</sup> in the last 3 or so years, and between those and this one, I find myself intrigued by how often *computational* style language shows up in biological writing. For example, when these texts focus on the subject of genetics, words such as *code*, *encoding*, *program* appear liberally. Similarly, when Dr. Taylor writes about the brain, she infuses the words *machines*, *data*, *code*, *pixels* throughout her descriptions of its operations and information processing. Examples of this can be seen in this section’s opening quote as well as the following:
 
 > Our visual field … is divided into billions of tiny spots or pixels.
 > …this information is eventually coded as different colors by the visual cortex in the occipital region of our brain. pg. 19
@@ -92,6 +92,8 @@ These key insights from Dr. Taylor’s experience resonate throughout the book, 
 
 I don’t know exactly what I hope to achieve with this or any future blog posts. The format is not exactly conventional. It feels very much like it exists in an in-between-state, not quite an essay, but also rather long when compared to traditional blog posts. Something of an organized post-stream of consciousness. Anyhow, it is of value to me to organize my post-reading thoughts in this way, and I hope that as a reader you may derive some value from it too. 
 
-With regards to My Stroke of Insight, it is not a terribly long read (roughly 196 pages), and if you feel compelled to read it after having read this post, I hope you find that there is even more value to be extracted from its pages than just what I have detailed here. Dr. Taylor’s resilience, determination, and success in recovering from her stroke after having lost the majority of her faculties inspired me to be a happier, more appreciative person, and hopefully it can do so for you as well. 
+With regards to 'My Stroke of Insight', it is not a terribly long read (roughly 196 pages), and if you feel compelled to read it after having read this post, I hope you find that there is even more value to be extracted from its pages than just what I have detailed here. Dr. Taylor’s resilience, determination, and success in recovering from her stroke after having lost the majority of her faculties inspired me to be a happier, more appreciative person, and hopefully it can do so for you as well. 
 
 **Thanks** to Ryan Wells, Hannah Gooden, and Ross Hardin for reading drafts of this.
+
+1. The two other bio books I have read recently are The Gene by Siddhartha Mukherjee and The Language of God by Francis Collins.
