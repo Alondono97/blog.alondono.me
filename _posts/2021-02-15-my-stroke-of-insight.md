@@ -25,7 +25,7 @@ In these chapters Dr. Taylor explains how the majority of strokes occur due to b
 
 > As information processing machines, our ability to process data about the external world begins at the level of sensory perception. pg. 18
 
-My computer science education lacked coverage of Biology. This is expected as the overlap between these two fields is one that must be actively sought out. I have however, ventured into the subject, on occasion, in my extra-curricular reading. I’ve read two other bio-centric books<sup>1</sup> in the last 3 or so years, and between those and this one, I find myself intrigued by how often *computational* style language shows up in biological writing. For example, when these texts focus on the subject of genetics, words such as *code*, *encoding*, *program* appear liberally. Similarly, when Dr. Taylor writes about the brain, she infuses the words *machines*, *data*, *code*, *pixels* throughout her descriptions of its operations and information processing. Examples of this can be seen in this section’s opening quote as well as the following:
+My computer science education lacked coverage of Biology. This is expected as the overlap between these two fields is one that must be actively sought out. I have however, ventured into the subject, on occasion, in my extra-curricular reading. I’ve read two other bio-centric books<sup>[1](#footnoteone)</sup> in the last 3 or so years, and between those and this one, I find myself intrigued by how often *computational* style language shows up in biological writing. For example, when these texts focus on the subject of genetics, words such as *code*, *encoding*, *program* appear liberally. Similarly, when Dr. Taylor writes about the brain, she infuses the words *machines*, *data*, *code*, *pixels* throughout her descriptions of its operations and information processing. Examples of this can be seen in this section’s opening quote as well as the following:
 
 > Our visual field … is divided into billions of tiny spots or pixels.
 > …this information is eventually coded as different colors by the visual cortex in the occipital region of our brain. pg. 19
@@ -96,4 +96,4 @@ With regards to 'My Stroke of Insight', it is not a terribly long read (roughly 
 
 **Thanks** to Ryan Wells, Hannah Gooden, and Ross Hardin for reading drafts of this.
 
-1. The two other bio books I have read recently are The Gene by Siddhartha Mukherjee and The Language of God by Francis Collins.
+<a name="footnoteone">1</a>. The two other bio books I have read recently are The Gene by Siddhartha Mukherjee and The Language of God by Francis Collins.
