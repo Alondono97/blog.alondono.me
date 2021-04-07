@@ -94,4 +94,4 @@ Or at least this is where it generally stands with regards to the state of AI to
 
 It’s worth noting that perhaps the technology itself is just a tool and should not be the basis of analysis. Instead, the system using the technology to advance its needs should be what is placed on the axes. For example with authoritarian AI: the U.S. or Chinese governmental systems. Which means this whole post should maybe be about decentralized finance instead of cryptocurrency, but alas, it is written. 
 
-**Thanks** to Ross Hardin, Ryan Wells, <span class="easter-egg">Robert Dominguez</span> <span class="hide">(Praise be to He, The Dark Lord)</span>, and Hannah Gooden for reading drafts of this and helping me stress test the ideas.
+**Thanks** to Ross Hardin, Ryan Wells, Robert Dominguez <!--<span class="hide">(Praise be to He, The Dark Lord)</span>-->, and Hannah Gooden for reading drafts of this and helping me stress test the ideas.
