@@ -1,0 +1,8 @@
+.hide{
+    display: none;
+}
+.easter-egg:hover + .hide{
+    display: inline;
+    color: #a463f2;
+    
+}

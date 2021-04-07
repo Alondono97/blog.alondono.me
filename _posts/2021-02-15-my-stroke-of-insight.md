@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Take Aways from 'My Stroke of Insight'"
+subtitle: "Take Aways and Reflections From 'My Stroke of Insight' by Dr. Jill Bolte Taylor, Ph. D."
 author: Alejandro Londono
 date: 2021-02-15 10:30:00 +0000
 categories: reading
 ---
-## Take Aways and Reflections From 'My Stroke of Insight' by Dr. Jill Bolte Taylor, Ph. D.
+<!-- ## Take Aways and Reflections From 'My Stroke of Insight' by Dr. Jill Bolte Taylor, Ph. D. -->
 
 This year I tasked myself with the New Year’s Resolution of [reading one book a week](http://reading.alondono.me). Throughout the year I plan on making intermittent blog posts exploring my take aways from some of the books that make a strong impression on me. The week of January 31, 2021 I read 'My Stroke of Insight' by [Dr. Jill Bolte Taylor](http://drjilltaylor.com/), Ph. D, a Harvard trained neuroscientist. This book details Dr. Taylor’s observations regarding her stroke experience and the recovery that followed. She briefly touches on topics of neuroscience followed by deeper insights into her gained understanding of stroke recovery, overall well being, and happiness. 
 
@@ -94,6 +95,6 @@ I don’t know exactly what I hope to achieve with this or any future blog posts
 
 With regards to 'My Stroke of Insight', it is not a terribly long read (roughly 196 pages), and if you feel compelled to read it after having read this post, I hope you find that there is even more value to be extracted from its pages than just what I have detailed here. Dr. Taylor’s resilience, determination, and success in recovering from her stroke after having lost the majority of her faculties inspired me to be a happier, more appreciative person, and hopefully it can do so for you as well. 
 
-**Thanks** to Ryan Wells, Hannah Gooden, and Ross Hardin for reading drafts of this.
-
 <a name="footnoteone">1</a>. The two other bio books I have read recently are The Gene by Siddhartha Mukherjee and The Language of God by Francis Collins.
+
+**Thanks** to Ryan Wells, Hannah Gooden, and Ross Hardin for reading drafts of this.
