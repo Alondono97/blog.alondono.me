@@ -26,4 +26,5 @@ ETH Public key: 0xb5294Ac65333D5FA875E2A7601146953536Be704
 ### Disclaimer
 The views expressed on this blog are purely my own and do not reflect those of any past, present, or future employer. 
 
-I use Google Analytics to track page views. I am looking to switch to something less invasive, but still free, and am open to recommendations.
+I use Google Analytics to track page views. I am looking to switch to something less invasive, but still free, and am open to recomendations.
+
