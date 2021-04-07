@@ -20,13 +20,13 @@
 
 title: Blogajandro
 description: >- # this means to ignore newlines until "baseurl:"
-  Thinking in public. More questions than answers.
+  Thinking in public.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.alondono.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
   name: Alejandro Londono
-  email: alejandro (at) londonos dot com
+  email: alejandro [at] londonos [dot] com
 
 
 # Build settings
