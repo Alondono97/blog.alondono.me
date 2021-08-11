@@ -4,7 +4,7 @@ title: "How does Bitcoin Fit Into the Larger Framework of History?"
 subtitle: "An Exploration Into the Structures that Emerge Around Centralization and Decentralization of Power"
 author: Alejandro Londono
 date: 2021-04-06 17:30:00 +0000
-categories: cryptocurrency
+categories: [cryptocurrency, blogposts]
 ---
 
 > Bitcoin and cryptocurrency will replace fiat currency as the dominant form of transactional capital on the planet.  
