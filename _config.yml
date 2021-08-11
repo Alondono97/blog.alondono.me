@@ -41,7 +41,7 @@ minima:
     twitter: alondono97
     github:  alondono97
 
-# paginate: 1
+paginate: 1
 google_analytics: G-3QRG4E1CQB
 
 header_pages:
