@@ -18,6 +18,7 @@
         min-width: 41px;
         text-align: center;
         box-sizing: border-box;
+        color:#68f263;
       }
       div {
         display: block;
@@ -26,7 +27,7 @@
   
         &.pager-edge {
           color: $border-color-01;
-        //   border: 1px dashed;
+          border: 1px dashed;
         }
       }
     }
