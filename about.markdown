@@ -9,10 +9,6 @@ Hi! I am Alejandro, a software engineer and writer. Feel free to reach out and f
 
 The spirit of this blog is "thinking in public". I use it to write about topics that are on my mind, and structure my resulting thoughts and worldview. You will likely find more questions here than answers, though, hopefully, some answers may break through. 
 
-You can see what I am currently reading [here](http://reading.alondono.me).
-
-The name is a portmanteau of the word "blog" and my name.
-Portmanteau is a French word meaning portmanteau.
 
 ## Education
 I graduated from Texas A&M Universtiy with a B.S. in Computer Science and now work as a software consultant. 
