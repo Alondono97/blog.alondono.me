@@ -36,7 +36,7 @@ plugins:
   - jekyll-paginate
 
 minima:
-  skin: solarized
+  # skin: solarized
   social_links:
     twitter: alondono97
     github:  alondono97
