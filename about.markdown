@@ -6,16 +6,14 @@ permalink: /about/
 
 Hey there! I am Alejandro, a software engineer and writer. Feel free to reach out and follow me on [twitter](https://twitter.com/alondono97).
 
-
-The spirit of this blog is "thinking in public". I use it to write about topics that are on my mind, and structure my resulting thoughts and worldview. You will likely find more questions here than answers, though, hopefully, some answers may break through. 
-
+The spirit of this blog is "thinking in public". I use it to write about topics that are on my mind. I enjoy writing long form <a href="/blog">essay style posts</a> as well as <a href="/fiction">fictional short stories</a>.
 
 ## Education
-I graduated from Texas A&M Universtiy with a B.S. in Computer Science and now work as a software consultant. 
+I graduated from Texas A&M Universtiy with a B.S. in Computer Science and a Minor in Mathematics. I now work as a software consultant. 
 
 
 ## Support
-All content on this site is free and will never have ads, but if you like what I've written and feel obliged to support, I will accept any amount of Eth you would like to send me: 
+All content on this site is free , but if you like what I've written and want to support my writing, I will accept any amount of Eth you would like to send me: 
 
 ENS: alondono.eth
 
