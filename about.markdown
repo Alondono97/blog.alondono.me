@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Howdy! I am Alejandro, a software engineer and writer. Feel free to reach out and follow me on [twitter](https://twitter.com/alondono97).
+Hey there! I am Alejandro, a software engineer and writer. Feel free to reach out and follow me on [twitter](https://twitter.com/alondono97).
 
 
 The spirit of this blog is "thinking in public". I use it to write about topics that are on my mind, and structure my resulting thoughts and worldview. You will likely find more questions here than answers, though, hopefully, some answers may break through. 
