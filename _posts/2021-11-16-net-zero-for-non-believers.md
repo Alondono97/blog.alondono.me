@@ -7,46 +7,51 @@ date: 2021-11-11 5:30:00 +0000
 categories: [climate, blogposts]
 ---
 
-Regardless of whether or not the cause of climate change is human activity, anyone that believes the planet's climate is undergoing drastic change should support an initiative to shift to a carbon neutral society via carbon capture technology and renewable energy adoption. 
+Climate change skeptics often cite data showing that the planet has undergone drastic changes in climate before. They argue that our current climate change is another natural occurence and not caused by human activity. These arguments still acknowledge the existence of climate change. 
 
-If we assume that believing in a drastically changing climate means objectively accepting the following two data points of current climate science:
+I argue that the cause of climate change does not matter. Carbon capture and renewable energy are still the only logical path forward for humanity.
 
-1. The amount of CO<sub>2e</sub> ppm in the atmosphere has steadily increased at an alarming rate since 1850 and continues to do so
+Pure data exists to back the following two statements:
 
-2. Average global surface temperature has increased as a direct result of (1)
+1. The amount of CO<sub>2e</sub> ppm in the atmosphere has  increased at an alarming rate since 1850 and continues to do so.
 
-then we can operate on the shared conclusion that the above two points are the cause of the climate's drastic changes[1]. Extrapolating from these data points indicates that the observed changes will continue, to the detriment of human civilization. 
+2. Average global surface temperature has increased as a direct result of (1).
 
+If this trends continue, climate models predict this will spell disaster for humanity. 
 
 ## Carbon Capture
 
-In the event that fossil fuel consumption is not the direct cause of an increase in CO<sub>2e</sub> atmospheric concentration, the fact of the matter remains that we still need to find a way to decrease said concentration. Continuing that line of reasoning, a skeptic might argue that decreasing our use of fossil fuels for energy and industrial production would not make any significant dent in our CO<sub>2e</sub> ppm increase problems[2]. The only remaining option, then, for decreasing our atmospheric CO<sub>2e</sub> ppm and preventing the environmental disasters predicted, would be to invest in technology that directly removes carbon from our atmosphere. 
+If climate scientists are incorrect and trends (1) and (2) are not caused by industrialization, then we have no way of knowing if they will continue or not [1]. There is nothing to indicate that these trends will stop. So it only makes sense to operate as if they won't, and actively take steps to counteract them. 
 
-If we take into account the possible ways the climate crisis plays out we can see two possible paths leading to four different outcomes:
+Let's assume that fossil fuel consumption is not the cause of our increase in CO<sub>2e</sub> concentration.  We still need to find a way to decrease it. Given our initial assumption, decreasing fossil fuel use would not fix the CO<sub>2e</sub> increase problem. Since we don't know the cause of CO2 increase the only option remaining is active removal of carbon from our atmosphere. 
 
-Path 1: Climate science predictions are correct, the climate will continue changing drastically in the direction its going, and the consequences of this change will be catastrophic to the human race.
+Enter carbon capture. 
 
-Path 2: Climate science predictions are incorrect and the observed changes in the climate will be uneventful for the human race.
+If we take into account the possible ways the climate crisis plays out  two paths emerge with four potential outcomes:
 
-If we develop strong, scalable carbon capture technology and path 1 occurs then we potentially save ourselves from catastrophic consequences. If we develop this technology and path 2 occurs then we suffer no major consequences either way. Both of these scenarios are favorable outcomes for our civilization.
+Path 1: Climate science predictions are correct. Climate change will continue in its current direction and the consequences of it will be catastrophic.
 
-In the event that we don't develop carbon capture technology and path 1 occurs then that spells disaster for us. If path 2 occurs thenno major consequences occur. However, now only 1/2 of the possible outcomes are in our favor. 
+Path 2: Climate science predictions are incorrect. The previously observed changes in climate will be uneventful.
+
+Say we invest in carbon capture development. In the event that path 1 occurs, the development of large scale carbon capture can  potentially save us from catastrophe. If we develop this technology and path 2 happens to occur then we suffer no major consequences either way. Both of these scenarios are favorable outcomes for us.
+
+In the event that we do not develop carbon capture technology and path 1 occurs then disaster occurs. The climate continues on its current trajectory, and we suffer the consequences. If path 2 occurs then no major consequences occur. However, in this scenario only 1/2 of the possible outcomes are in our favor. 
 
 100% favorable results vs only 50% favorable are not odds worth gambling against.
 
-If you believe that climate change is occuring, regardless of cause, you should find a way to support and encourage the development of carbon capture technology. 
+If you believe that climate change is occurring, regardless of cause, development of carbon capture technology is the only path forward. 
 
 ## Renewable Energy
 
-Furthermore, even if we continue to believe that fossil fuel use is not harming the environment, we should still continue to pursue the development of renewable energy technology[3]. Fossil fuels are a finite resource that will only diminish in supply as time goes on. Our societal dependence on them will inevitavely lead to massive conflict as our major energy resource disappears. A shift in global dependence from fossil fuels to renewable resources will not only avoid this conflict but set humanity up for success in years to come by creating a more abundant and equitable society not limited by scarce resources. 
+Even if we continue to believe that fossil fuel use is not causing climate change, we should still continue to pursue the development of renewable energy technology. Fossil fuels are a finite resource that will only diminish in supply as time goes on.  Societal dependence on them will culminate in mass conflict as our major energy resource disappears. A shift in global dependence from fossil fuels to renewable resources will avoid conflict and set humanity up for success in years to come. It will create a more abundant society not limited by scarce resources. 
 
-If we start to consider the two possible paths that climate change can take, as we did above, we will reach a similar conclusion as before: the probablities of favorable outcomes support the adoption of renewable resources as the main source of civilization's energy. 
+<add something about polution here> [2]
 
-Taking these ideas into account, it follows that further development of carbon capture and renewable energy technology is in the best interest of future human societal development, independent of the current state or cause of climate change. 
+Considering the two possible paths (as above) that climate change can take similar  ends in similar conclusions. The probabilities of favorable vs unfavorable outcomes support the adoption of renewable resources. 
 
-### Footnotes
-[1] Increased temperature leads to melting ice caps which leads to increased sea levels. Increased temperature leads to increased precipitation in tropical regions. Increased temprature leads to increased forest fires and droughts in already naturally dry regions. (These are all oversimplifications of course, but the conclusions still follow and hold when you get into the details of the climate science).
+Further development of carbon capture and renewable energy is in the best interest of humanity, independent of what is causing climate change. 
 
-[2] I want to emphasize that I'm simply following a line of reasoning here from a previously assumed basis. My personal belief, based on climate data and scientific consenus, is that climate change is largely caused by human activity, industrialization, and fossil fuel use. 
+[1] <Address alternate sources of CO2 emissions here>
 
-[3] Climate science data overwhelmingly indicates that human fossil fuel use is in fact the primary driver of climate change and points (1) and (2) presented in the above body. 
+[2] <our world in data sources>
+
