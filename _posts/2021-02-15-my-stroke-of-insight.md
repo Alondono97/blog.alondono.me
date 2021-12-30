@@ -6,7 +6,6 @@ author: Alejandro Londono
 date: 2021-02-15 10:30:00 +0000
 categories: [reading, blogposts]
 ---
-<!-- ## Take Aways and Reflections From 'My Stroke of Insight' by Dr. Jill Bolte Taylor, Ph. D. -->
 
 This year I tasked myself with the New Year’s Resolution of [reading one book a week](http://reading.alondono.me). Throughout the year I plan on making intermittent blog posts exploring my take aways from some of the books that make a strong impression on me. The week of January 31, 2021 I read 'My Stroke of Insight' by [Dr. Jill Bolte Taylor](http://drjilltaylor.com/), Ph. D, a Harvard trained neuroscientist. This book details Dr. Taylor’s observations regarding her stroke experience and the recovery that followed. She briefly touches on topics of neuroscience followed by deeper insights into her gained understanding of stroke recovery, overall well being, and happiness. 
 
