@@ -261,8 +261,25 @@ table {
 .hide{
   display: none;
 }
+
 .easter-egg:hover + .hide{
   display: inline;
   color: #a463f2;
   
 }
+
+
+.secret-text .hidden-text{
+  display: none;
+}
+
+.secret-text:hover .hidden-text{
+  display: inline;
+}
+
+.secret-text:hover .place-holder-text{
+  display: none;
+}
+
+
+
