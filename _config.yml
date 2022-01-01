@@ -43,6 +43,7 @@ minima:
 
 # paginate: 1
 google_analytics: G-3QRG4E1CQB
+show_excerpts: true
 
 header_pages:
 - blog.md

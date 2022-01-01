@@ -3,10 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+# Hey There!
 
-Hey there! I am Alejandro, a software engineer and writer. Feel free to reach out and follow me on [twitter](https://twitter.com/alondono97).
+I am Alejandro, a software engineer and writer. Feel free to reach out and follow me on [twitter](https://twitter.com/alondono97).
 
-The spirit of this blog is "thinking in public". I use it to write about topics that are on my mind. I enjoy writing long form <a href="/blog">essay style posts</a> as well as <a href="/fiction">fictional short stories</a>.
+The spirit of this blog is "thinking in public". I use it to structure my thoughts on topics I'm interested in. I enjoy writing long form <a href="/blog">essay style posts</a> as well as <a href="/fiction">fictional short stories</a>.
 
 ## Education
 I graduated from Texas A&M Universtiy with a B.S. in Computer Science and a Minor in Mathematics. I now work as a software consultant. 
