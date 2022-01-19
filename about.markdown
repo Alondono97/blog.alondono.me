@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # Hey There!
 
-I am Alejandro, a software engineer and writer. Feel free to reach out and follow me on [twitter](https://twitter.com/alondono97).
+I am Alejandro, a software engineer and writer. Feel free to reach out and follow me on [twitter](https://twitter.com/alondono97). You can view some of my other projects and experience on my [Github](https://github.com/Alondono97) or my [resume](assets/pdfs/alejandro_londono_resume_2022_.pdf).
 
 The spirit of this blog is "thinking in public". I use it to structure my thoughts on topics I'm interested in. I enjoy writing long form <a href="/blog">essay style posts</a> as well as <a href="/fiction">fictional short stories</a>.
 
